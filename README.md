@@ -1,0 +1,1 @@
+Code for MTMG:A multi-task model with multi-granularity information for drug-drug interaction extraction
