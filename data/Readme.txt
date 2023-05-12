@@ -1,4 +1,4 @@
-Data can be downloaded at http://labda.inf.uc3m.es/ddicorpus .
+Data can be downloaded at https://github.com/isegura/DDICorpus .
 
 The format of the processed data is as follows:
 1	1
